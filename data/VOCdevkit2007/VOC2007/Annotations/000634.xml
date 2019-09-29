@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000634.jpg</filename>
+  <path>D:\workplace\ssd_cosmetic\VOC2007\JPEGImages\000034.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>716</width>
+    <height>662</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cosmetic</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>179</xmin>
+      <ymin>50</ymin>
+      <xmax>587</xmax>
+      <ymax>660</ymax>
+    </bndbox>
+  </object>
+</annotation>
