@@ -2,7 +2,6 @@
 
 
 ## Dataset and Model
------
 
 Dataset：https://github.com/xuyanbo03/Cosmetic-Object-Detection/tree/master/data/VOCdevkit2007/VOC2007
 
@@ -16,19 +15,16 @@ Model：(百度云)[https://pan.baidu.com/s/1z1B-KCaQqsKoHVUFV2-vgQ]
 
 
 ## Training
------
 
 python train-resnet.py
 
 
 ## Test
------
 
 python test.py
 
 
 ## Results
------
 效果图：
 <p align="center">
   <img src="https://github.com/xuyanbo03/Cosmetic-Object-Detection/tree/master/doc/1.jpg">
